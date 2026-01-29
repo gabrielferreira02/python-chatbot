@@ -12,7 +12,7 @@ https://ai.google.dev/gemini-api/docs/api-key
 ### 1 - Clone o projeto
 
 ```bash
-git clone https://github.com/gabrielferreira02/python-chatbot
+git clone https://github.com/gabrielferreira02/python-chatbot.git
 cd python-chatbot
 ```
 
